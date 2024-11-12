@@ -44,7 +44,7 @@ Desenvolva testes que assegurem que os dados da camada "silver" atendam às regr
 ### Transformação de Dados com dbt - Camada Silver:
 Utilize a ferramenta dbt para criar a camada "silver" de dados, realizando transformações e preparando os dados da camada em questão.
 Mantenha um controle de versão dos modelos dbt relacionados à camada "silver" e automatize a execução das transformações.
-
+ 
 ### Armazenamento de Dados em PostgreSQL - Camada Silver:
 Armazene os dados da camada "silver" no mesmo banco de dados PostgreSQL.
 Estabeleça conexões entre o dbt e o PostgreSQL para carregar os dados transformados da camada "silver" no banco.
